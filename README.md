@@ -96,13 +96,18 @@ When the program runs, the following options appear:
 6) Return Book
 7) Print Users Borrowed Books
 8) Print All Active Users
+9) 
 ▶️ How to Run the Project
+'''
 1️⃣ Clone the repository
 git clone https://github.com/fayazam33/Library_management_system_with_python_OOP_projects.git
+'''
 2️⃣ Navigate to the project folder
 cd Library_management_system_with_python_OOP_projects
+
 3️⃣ Run the program
 python main.py
+
 💾 Example Data Format (library.json)
 {
   "books": [
