@@ -1,0 +1,29 @@
+{
+    "books": [
+        {
+            "id": "1",
+            "name": "python",
+            "quantity": 3
+        },
+        {
+            "id": "2",
+            "name": "biology",
+            "quantity": 2
+        }
+    ],
+    "users": [
+        {
+            "id": 1,
+            "name": "saiful",
+            "borrowed": [
+                "biology",
+                "biology"
+            ]
+        },
+        {
+            "id": 2,
+            "name": "fayaz",
+            "borrowed": []
+        }
+    ]
+}
